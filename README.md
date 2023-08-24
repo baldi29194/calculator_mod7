@@ -12,12 +12,12 @@
   * [Svgr](https://react-svgr.com/)
 <br>
 
-## Available Scripts
+##  Scripts
 
-In the project directory, you can run:
+En el directorio del proyecto se puede ejecutar:
 
 ### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Ejecuta la aplicacion en modo desarrollador.<br />
+Abrir [http://localhost:3000](http://localhost:3000) para ver en el navegador.
 
